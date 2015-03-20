@@ -11,9 +11,9 @@ Basic instruction is contained in run-groestlcoind-docker.sh
 
 
 Available as a Dockerhub Automated Trusted Build
-
+```
    docker pull groestlcoin/groestlcoind-base
-
+```
 Dockerhub build 
  - starts with mazaclub/coind-base 
  - installs required deps via apt
